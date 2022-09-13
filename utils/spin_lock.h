@@ -1,7 +1,3 @@
-//
-// Created by 24810 on 2022/09/10.
-//
-
 #ifndef SEARCH_PROJECT_SPIN_LOCK_H
 #define SEARCH_PROJECT_SPIN_LOCK_H
 

@@ -1,7 +1,3 @@
-//
-// Created by 24810 on 2022/09/10.
-//
-
 #include "spin_lock.h"
 namespace search {
     SpinLock::SpinLock() {
